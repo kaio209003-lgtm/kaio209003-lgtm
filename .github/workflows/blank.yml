@@ -1,5 +1,4 @@
 # GitHub Action for generating a contribution graph with a snake eating your contributions.
-
 # ![Snake animation](https://github.com/seuusuario/seuusuario/blob/output/github-contribution-grid-snake.svg)
 
 name: Generate Snake
