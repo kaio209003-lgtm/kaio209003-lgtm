@@ -50,5 +50,5 @@
 
 ##
 
-![Snake animation](https://github.com/kaio209003-lgtm/kaio209003-lgtmblob/output/github-contribution-grid-snake.svg)
+https://github.com/kaio209003-lgtm/kaio209003-lgtmblob/output/github-contribution-grid-snake.svg
 
